@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="enter_a_us_city_name">Enter a US city name</string>
+    <string name="go">Go</string>
+    <string name="description">Description</string>
+    <string name="temp">Temp</string>
+    <string name="temp_min">Temp min</string>
+    <string name="temp_max">Temp max</string>
+    <string name="humidity">Humidity</string>
+    <string name="city">City</string>
+    <string name="country">Country</string>
+</resources>
